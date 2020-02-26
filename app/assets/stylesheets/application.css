@@ -13,3 +13,50 @@
  *= require_tree .
  *= require_self
  */
+ header {
+   color: black;
+   font-size: 20px;
+ }
+
+ body {
+   background: linear-gradient(-45deg, rgba(246, 255, 0, .8), rgba(255, 0, 161, .8));
+   color: black;
+   text-align: center;
+ }
+
+ table {
+   margin: auto;
+ }
+
+ footer {
+   font-size: 13px;
+ }
+
+ #error_explanation {
+   margin: auto;
+ }
+
+ .field {
+   display: inline-flex;
+   margin: auto;
+ }
+
+ .content {
+   display: inline-flex;
+   margin: auto;
+ }
+
+ .picture {
+   display: block;
+   margin: auto;
+ }
+
+ .password {
+   display: inline-flex;
+   margin: auto;
+ }
+
+ .sign_up {
+   display: inline-block;
+   margin: auto;
+ }
