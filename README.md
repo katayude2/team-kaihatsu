@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+* 初めてのチーム開発
+
 * Ruby version
 
 * System dependencies
