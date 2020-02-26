@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* 初めてのチーム開発
+* 初めてのチーム開発(developブランチ)
 
 * Ruby version
 
